@@ -24,6 +24,7 @@ public class BubbleSort {
 	
 		int[] arr = {5, 2, 4, 8, 9, 6};
 		System.out.print("Array before sorting: ");
+		
 
 	      for(int i=0; i < arr.length; i++){  
               System.out.print(arr[i] + " ");  
